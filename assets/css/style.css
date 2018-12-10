@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 40px;
+    color: white;
+    background: black;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+
+  .mainpicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 50%;
+}
+
+  .mugShot {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .pword{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .cword{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .score{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .input{
+    margin: 0 auto;
+    max-width: 300px;
+    text-align: center;
+  }
+
+  .hintz{
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+  }
+  
